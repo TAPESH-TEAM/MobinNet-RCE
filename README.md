@@ -7,6 +7,6 @@
 #POC <br/>
 #1.Find Targets With (mobinnet country:"ir) ==> SHODAN Filter <br/>
 #2.Download Form App (.exe) File <br/>
-#4.Copy IP And Port Targets<br/><br/>
+#4.Copy IP And Port Targets<br/>
 #5.paste ip & port in textbox and Enter CMD =>  For Example ( ls )<br/>
 
